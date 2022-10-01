@@ -1,7 +1,7 @@
 package com.company;
 //this class is for bowlers and batsmen
 public class CricketPlayer extends Player {
-
+    //ilovegloves
     private String playerName;
     private int playerScore;
     private String teamName;
