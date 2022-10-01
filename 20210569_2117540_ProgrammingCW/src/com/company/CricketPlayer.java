@@ -12,6 +12,7 @@ public class CricketPlayer extends Player {
         this.teamName = teamName;
 
     }
+    //new
 
     @Override
     public void setPlayerName(String playerName){
